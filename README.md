@@ -3,9 +3,12 @@
 ## Overview
 HelloWorld plugin is a simple yet powerful Minecraft plugin designed to enhance your server experience. This plugin offers a range of features that make your server more interactive and fun.
 
+## Supported MC Versions
+This plugin officially supports 1.18.x ~ 1.19.x
+
 ## Features
-- **Enable Message**: Displays a custom greeting message to players when they join the server.
-- **Disable Message**: Introduce new commands that players can use for various fun activities.
+- **Enable Message**: This plugin will display "Hello World!" message on your console when enabled.
+- **Disable Message**: This plugin will display "Goodbye World!" message on your console when disabled.
 - **HelloWorld Command**: typing /helloworld will 
 
 ## Installation
