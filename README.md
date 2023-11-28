@@ -19,8 +19,15 @@ This plugin officially supports 1.18.x ~ 1.19.x
 ## Usage
 After installation, the plugin will automatically start working. Since this plugin has no configuration, it is very easy to use. 
 
+
+
 # Contribution
 Contributions to the HelloWorld plugin are welcome!
+
+# Upcoming Changes
+- Change supported MC versions to 1.19.x ~ 1.20.x
+- Add command which summons display entity named HelloWorld
+- Eat lunch
 
 # Done
 Enjoy!
