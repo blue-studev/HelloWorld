@@ -3,6 +3,6 @@ version: '${project.version}'
 main: com.bluedev.helloworld.HelloWorld
 api-version: '1.18'
 commands:
-  helloworld:
+  안녕세계:
     description: Hello World Command
-    aliases: hw, hello, world, helloworld, 헬로, 안녕, 안녕세계
+    aliases: [hw, hello, world, 헬로, 안녕, helloworld]

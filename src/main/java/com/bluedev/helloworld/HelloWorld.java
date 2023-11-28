@@ -10,7 +10,7 @@ public final class HelloWorld extends JavaPlugin {
         getLogger().info("Hello World!");
 
         // Register our command "helloworld" (set an instance of your command class as executor)
-        getCommand("helloworld").setExecutor(new Command());
+        getCommand("안녕세계").setExecutor(new Command());
     }
 
     @Override
