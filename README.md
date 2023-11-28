@@ -9,7 +9,7 @@ This plugin officially supports 1.18.x ~ 1.19.x
 ## Features
 - **Enable Message**: This plugin will display "Hello World!" message on your console when enabled.
 - **Disable Message**: This plugin will display "Goodbye World!" message on your console when disabled.
-- **HelloWorld Command**: typing /helloworld will 
+- **HelloWorld Command**: typing /helloworld will send you a warm "Hello World" message.
 
 ## Installation
 1. Download the HelloWorld.jar file from the Releases section.
